@@ -1,0 +1,36 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#green {
+  background: #04e762;
+}
+
+#yellow {
+  background: #f5b700;
+}
+#blue {
+  background: #00a1e4;
+}
+#pink {
+  background: #dc0073;
+}
+#light-green {
+  background: #89fc00;
+}
